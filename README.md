@@ -1,6 +1,6 @@
 # Surround-View
-This project had been completed by Çağrı Dükünlü
-Contact mail:cagridknl@gmail.com
+This project had been completed by Çağrı Dükünlü 
+Contact mail: cagridknl@gmail.com
 
 The project holds MIT License and can be used from other developers as long as the base developer had credit.
 
